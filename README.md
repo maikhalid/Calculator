@@ -1,0 +1,2 @@
+# Calculator
+Calculates arithmetic operations
